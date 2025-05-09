@@ -1,0 +1,8 @@
+# 將 /index.html 永久 301 導回 /
+/index.html   /   301!
+
+# （可選）將 /index.php 永久 301 導回 /
+/index.php    /   301!
+
+# （可選）SPA fallback：所有其他路徑都回傳 index.html（200）
+/*            /index.html   200
