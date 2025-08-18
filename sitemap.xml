@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.terragon.tech/</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -91,6 +91,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.terragon.tech/resources/tips-for-choosing-software-provider-for-crypto-online-gambling-platform</loc>
+    <lastmod>2025-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.terragon.tech/news/how-to-choose-the-right-crypto</loc>
     <lastmod>2025-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,6 +177,12 @@
   <url>
     <loc>https://www.terragon.tech/news/why-a-crypto-online-betting-backoffice-is-a-game-changer-for-gambling-operators</loc>
     <lastmod>2025-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.terragon.tech/news/tips-for-choosing-software-provider-for-crypto-online-gambling-platform</loc>
+    <lastmod>2025-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
