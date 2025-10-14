@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.terragon.tech/</loc>
-    <lastmod>2025-09-29</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -145,6 +145,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.terragon.tech/resources/key-features-to-look-for-in-a-multi-currency-gambling-backoffice-platform</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.terragon.tech/resources/custom-vs-ready-made-casino-software</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.terragon.tech/news/how-to-choose-the-right-crypto</loc>
     <lastmod>2025-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -279,6 +291,18 @@
   <url>
     <loc>https://www.terragon.tech/news/bespoke-online-casino-platform</loc>
     <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.terragon.tech/news/key-features-to-look-for-in-a-multi-currency-gambling-backoffice-platform</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.terragon.tech/news/custom-vs-ready-made-casino-software</loc>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
